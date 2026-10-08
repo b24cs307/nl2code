@@ -1,0 +1,17 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & IDEs
+.venv/
+venv/
+ENV/
+.vscode/
+.idea/
+
+# Generated code output
+generated/
+
+# Environment variables / API Keys
+.env
